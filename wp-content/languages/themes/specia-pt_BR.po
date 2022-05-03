@@ -1,0 +1,578 @@
+# Translation of Themes - Specia in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Specia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-07 10:15:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Specia\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Specia is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. It fits for business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. Specia premium version provides you more than 10 different designs and supports popular plugins WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO and many more. View the demo of Specia Premium https://demo.speciatheme.com/pro/?theme=specia"
+msgstr "Specia é um tema WordPress com uma grande quantidade de poderosos recursos , dando instantaneamente uma aparência profissional ao seu perfil online. Ele se adapta para negócios, portfólio, alimentos e restaurante, academia e fitness, salão de spa, médico e hospitais, landing pages, páginas de produtos, negócios corporativos, agência digital, vitrine de produtos, consultoria financeira, contabilidade, escritório de advocacia, assessoria financeira, fotografia, site pessoal ou qualquer loja de comércio eletrônico. A versão Specia Premium oferece mais de 10 designs diferentes e suporta plugins populares WPML, Polylang, WooCommerce, Formulário de Contato 7, Revolution Slider, Elementor, Compositor Visual, Formulários WP, Formulários Ninja, Jetpack, WP-Featherlight, Give (Plugin WordPress Donation ), Gravity Forms, Yoast SEO e muito mais. Veja a demonstração do Specia Premium https://demo.speciatheme.com/pro/?theme=specia"
+
+#: woocommerce/cart/mini-cart.php:80
+msgid "No products in the cart."
+msgstr "Nenhum produto no carrinho."
+
+#: woocommerce/cart/mini-cart.php:35
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#: functions.php:156 sections/specia-navigation.php:120
+msgid "0"
+msgstr "0"
+
+#: sections/specia-navigation.php:96
+msgid "Type To Search"
+msgstr "Digite para pesquisar"
+
+#: sections/specia-navigation.php:95
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: sections/specia-navigation.php:94
+msgid "Site Search"
+msgstr " Pesquisa do site"
+
+#: inc/customize/specia-header-section.php:540
+msgid "Open link in new tab"
+msgstr "Abrir o link em uma nova aba"
+
+#: inc/customize/specia-header-section.php:522
+msgid "Button URL"
+msgstr "URL do botão"
+
+#: inc/customize/specia-header-section.php:481
+msgid "Hide/ Show Button"
+msgstr "Botão Ocultar/Mostrar"
+
+#: inc/customize/specia-header-section.php:457
+msgid "Hide/ Show Header Cart"
+msgstr "Ocultar / Mostrar Carrinho de cabeçalho"
+
+#: inc/customize/specia-header-section.php:440
+msgid "Header Cart & Button"
+msgstr "Carrinho de cabeçalho & botão"
+
+#: inc/customize/specia-header-section.php:69
+msgid "Hide / Show Tooltip"
+msgstr "Ocultar / Mostrar tooltip"
+
+#: inc/customize/specia-general.php:37
+msgid "Border Radius (px)"
+msgstr "Raio da borda (px)"
+
+#: inc/customize/specia-general.php:18
+msgid "Buttons"
+msgstr "Botões"
+
+#: inc/customize/specia-general.php:7
+msgid "General"
+msgstr "Geral"
+
+#: inc/customize/specia-footer-section.php:50
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Distribuído por [theme_author]"
+
+#: inc/customize/specia-call-action.php:272
+#: inc/customize/specia-call-action.php:291
+#: inc/customize/specia-features.php:120
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customize/specia-call-action.php:252
+msgid "Button Link 2"
+msgstr "Botão Link 2"
+
+#: inc/customize/specia-call-action.php:233
+msgid "Button Text 2"
+msgstr "Texto do botão 2"
+
+#: inc/customize/specia-call-action.php:212
+msgid "Button Middle Content"
+msgstr "Conteúdo do meio do botão"
+
+#: inc/customize/specia-call-action.php:193
+msgid "Button Second"
+msgstr "Botão Segundo"
+
+#: inc/customize/specia-call-action.php:116
+msgid "Button First"
+msgstr "Botão primeiro"
+
+#: inc/customize/specia-call-action.php:74
+msgid "Contents"
+msgstr "Conteúdo"
+
+#: footer.php:40
+msgid "<a href=\"https://speciatheme.com/\" target=\"_blank\">Specia WordPress Theme</a>"
+msgstr "<a href=\"https://speciatheme.com/\" target=\"_blank\">Tema Specia do WordPress</a>"
+
+#: inc/customize/specia-blog.php:121
+msgid "Select number of Posts"
+msgstr "Selecione o número de posts"
+
+#: inc/customize/specia-footer-section.php:179
+msgid "AmEx"
+msgstr "AmEx"
+
+#: inc/widget/widget_feature.php:79
+msgid "Icons"
+msgstr "Ícones"
+
+#: inc/customize/specia-header-section.php:242
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: inc/customize/specia-call-action.php:96
+#: inc/customize/specia-portfolio.php:123
+#: inc/customize/specia-portfolio.php:144
+#: inc/customize/specia-portfolio.php:165 inc/customize/specia-service.php:123
+#: inc/customize/specia-service.php:144 inc/customize/specia-service.php:165
+#: inc/customize/specia-slider-section.php:80
+#: inc/customize/specia-slider-section.php:100
+#: inc/customize/specia-slider-section.php:120
+msgid "Select Page"
+msgstr "Selecionar Página"
+
+#: inc/customize/specia-blog.php:92 inc/customize/specia-features.php:92
+#: inc/customize/specia-portfolio.php:92 inc/customize/specia-service.php:92
+#: inc/widget/widget_feature.php:84
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/customize/specia-blog.php:73 inc/customize/specia-features.php:73
+#: inc/customize/specia-portfolio.php:73 inc/customize/specia-service.php:73
+#: inc/widget/widget_feature.php:74
+msgid "Title"
+msgstr "Título"
+
+#: inc/customize/specia-premium.php:34
+msgid "Support Center"
+msgstr "Centro de Suporte"
+
+#: inc/customize/specia-premium.php:14
+msgid "Upgrade to Premium"
+msgstr "Atualizar para Premium"
+
+#. Template Name of the theme
+msgid "Blog Masonry"
+msgstr "Blog Masonry"
+
+#: inc/customize/specia-premium.php:32
+msgid "Buy Now"
+msgstr "Comprar Agora"
+
+#: inc/customize/specia-header-section.php:313
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customize/specia-features.php:103
+msgid "Background"
+msgstr "Fundo"
+
+#: inc/customize/specia-call-action.php:135
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: inc/customize/specia-blog.php:103 inc/customize/specia-call-action.php:55
+#: inc/customize/specia-portfolio.php:103 inc/customize/specia-service.php:103
+#: inc/customize/specia-slider-section.php:60
+msgid "Content"
+msgstr "Conteúdo"
+
+#: inc/customize/specia-blog.php:55 inc/customize/specia-features.php:55
+#: inc/customize/specia-portfolio.php:55 inc/customize/specia-service.php:55
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/customize/specia-blog.php:39 inc/customize/specia-call-action.php:39
+#: inc/customize/specia-features.php:39
+#: inc/customize/specia-header-section.php:43
+#: inc/customize/specia-header-section.php:346
+#: inc/customize/specia-portfolio.php:39 inc/customize/specia-service.php:39
+#: inc/customize/specia-slider-section.php:44
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar seção"
+
+#: inc/customize/specia-blog.php:21 inc/customize/specia-call-action.php:21
+#: inc/customize/specia-features.php:21 inc/customize/specia-portfolio.php:21
+#: inc/customize/specia-service.php:21
+#: inc/customize/specia-slider-section.php:25
+msgid "Settings"
+msgstr "Configurações"
+
+#: inc/customize/specia-premium.php:30
+msgid "Premium Demo"
+msgstr "Demo Premium"
+
+#: inc/customize/specia-header-section.php:295
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Homepage um"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Largura total"
+
+#. Template Name of the theme
+msgid "Blog Left Sidebar"
+msgstr "Barra lateral esquerda do blog"
+
+#. Theme Name of the theme
+#. Author of the theme
+msgid "Specia"
+msgstr "Specia"
+
+#: template-parts/content.php:65
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não conseguimos encontrar o que você está procurando. Talvez uma busca ajude."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: sections/specia-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/breadcrumb/breadcrumb.php:141 sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "Arquivo da tag: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "Arquivo da categoria: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "Arquivo anual: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "Arquivo mensal: %s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "Arquivo diários: %s"
+
+#. translators: %s: Name of current post.
+#: sections/specia-blog.php:75 sections/specia-service.php:76
+#: template-parts/content-page.php:61 template-parts/content-search.php:60
+#: template-parts/content.php:60
+msgid "Read More"
+msgstr "Ler mais"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por: %s"
+
+#: inc/widget/widget_feature.php:16
+msgid "Features Widget"
+msgstr "Widget de Destaque"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:64
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:57
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> em %s</span>"
+
+#: inc/template-tags.php:50
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: inc/template-tags.php:44
+msgid "Posted in %1$s"
+msgstr "Postado em %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:48
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:25
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:20
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#: inc/sidebar/sidebar.php:34 inc/sidebar/sidebar.php:36
+msgid "WooCommerce Widget Area"
+msgstr "Área do Widget WooCommerce"
+
+#: inc/sidebar/sidebar.php:24 inc/sidebar/sidebar.php:26
+#: inc/widget/widget_feature.php:19
+msgid "Features Widget Area"
+msgstr "Área Widget de destaques"
+
+#: inc/sidebar/sidebar.php:14 inc/sidebar/sidebar.php:16
+msgid "Footer Widget Area"
+msgstr "Área de Widgets do rodapé"
+
+#: inc/sidebar/sidebar.php:4 inc/sidebar/sidebar.php:6
+msgid "Sidebar Widget Area"
+msgstr "Área do Widget da Barra Lateral"
+
+#: inc/customize/specia-slider-section.php:12
+msgid "Slider Section"
+msgstr "Seção Slider"
+
+#: inc/customize/specia-service.php:12
+msgid "Service Section"
+msgstr "Seção Serviço"
+
+#: inc/customize/specia-portfolio.php:12
+msgid "Portfolio Section"
+msgstr "Seção Portfolio"
+
+#: inc/customize/specia-header-section.php:403
+#: inc/customize/specia-header-section.php:421
+msgid "Sticky Header"
+msgstr "Cabeçalho fixo"
+
+#: inc/customize/specia-header-section.php:389
+msgid "Contact Number"
+msgstr "Número de contato"
+
+#: inc/customize/specia-header-section.php:327
+msgid "Header Contact Info"
+msgstr "Informações de contato do cabeçalho"
+
+#: inc/customize/specia-header-section.php:277
+#: inc/customize/specia-header-section.php:370
+msgid "Email"
+msgstr "Email"
+
+#: inc/customize/specia-header-section.php:261
+msgid "Enter your Skype action, for e.g: skype:echo123?call (call, chat, voicemail, sendfile, userinfo, add)"
+msgstr "Insira sua ação do Skype, por exemplo: skype: echo123? Call (chamada, bate-papo, correio de voz, enviar arquivo, informação de usuário, adicionar)"
+
+#: inc/customize/specia-header-section.php:258
+msgid "Skype Action"
+msgstr "Ação do Skype"
+
+#: inc/customize/specia-header-section.php:239
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customize/specia-header-section.php:221
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: inc/customize/specia-header-section.php:203
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/customize/specia-header-section.php:185
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customize/specia-header-section.php:167
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customize/specia-header-section.php:149
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customize/specia-header-section.php:131
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customize/specia-header-section.php:112
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customize/specia-header-section.php:93
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customize/specia-header-section.php:24
+msgid "Social Media"
+msgstr "Mídia social"
+
+#: inc/customize/specia-header-section.php:12
+msgid "Header Section"
+msgstr "Seção de cabeçalho"
+
+#: inc/customize/specia-footer-section.php:198
+msgid "Stripe"
+msgstr "Stripe"
+
+#: inc/customize/specia-footer-section.php:160
+msgid "MasterCard"
+msgstr "Mastercard"
+
+#: inc/customize/specia-footer-section.php:141
+msgid "Visa"
+msgstr "Visa"
+
+#: inc/customize/specia-footer-section.php:121
+msgid "PayPal"
+msgstr "PayPal"
+
+#: inc/customize/specia-footer-section.php:77
+#: inc/customize/specia-footer-section.php:97
+msgid "Payment Icon"
+msgstr "Ícone de pagamento"
+
+#: inc/customize/specia-footer-section.php:18
+#: inc/customize/specia-footer-section.php:38
+#: inc/customize/specia-footer-section.php:63
+msgid "Copyright Content"
+msgstr "Conteúdo dos Direitos autorais"
+
+#: inc/customize/specia-footer-section.php:10
+msgid "Footer Section"
+msgstr "Seção de rodapé"
+
+#: inc/customize/specia-features.php:12
+msgid "Features Section"
+msgstr "Seção de destaques"
+
+#: inc/customize/specia-call-action.php:174
+msgid "Open link in a new tab"
+msgstr "Abrir link em nova aba"
+
+#: inc/customize/specia-call-action.php:154
+msgid "Button Link"
+msgstr "Link do botão"
+
+#: inc/customize/specia-header-section.php:504
+msgid "Button Label"
+msgstr "Rótulo do botão"
+
+#: inc/customize/specia-call-action.php:12
+msgid "Call To Action Section"
+msgstr "Seção chamada para ação"
+
+#: inc/customize/specia-blog.php:45 inc/customize/specia-call-action.php:45
+#: inc/customize/specia-features.php:45
+#: inc/customize/specia-footer-section.php:44
+#: inc/customize/specia-footer-section.php:104
+#: inc/customize/specia-header-section.php:50
+#: inc/customize/specia-header-section.php:75
+#: inc/customize/specia-header-section.php:352
+#: inc/customize/specia-header-section.php:427
+#: inc/customize/specia-header-section.php:463
+#: inc/customize/specia-portfolio.php:45 inc/customize/specia-service.php:45
+#: inc/customize/specia-slider-section.php:50
+msgid "Hide"
+msgstr "Esconder"
+
+#: inc/customize/specia-blog.php:44 inc/customize/specia-call-action.php:44
+#: inc/customize/specia-features.php:44
+#: inc/customize/specia-footer-section.php:43
+#: inc/customize/specia-footer-section.php:103
+#: inc/customize/specia-header-section.php:49
+#: inc/customize/specia-header-section.php:74
+#: inc/customize/specia-header-section.php:351
+#: inc/customize/specia-header-section.php:426
+#: inc/customize/specia-header-section.php:462
+#: inc/customize/specia-portfolio.php:44 inc/customize/specia-service.php:44
+#: inc/customize/specia-slider-section.php:49
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/customize/specia-blog.php:12
+msgid "Blog Section"
+msgstr "Seção Blog"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "Página"
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Articles posted by"
+msgstr "Artigos publicados por"
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged"
+msgstr "Posts com a tag"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for"
+msgstr "Resultados da pesquisa por"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Arquivo por categoria"
+
+#: inc/breadcrumb/breadcrumb.php:6 inc/specia-nav-walker.php:124
+msgid "Home"
+msgstr "Início"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: functions.php:24
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:26 comments.php:48
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:25 comments.php:47
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:22 comments.php:44
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: 404.php:13
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que nada foi encontrado neste lugar. Quem sabe você possa tentar um dos links abaixo ou uma busca?"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ops! Essa página não pode ser encontrada."
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://speciatheme.com/specia-free/"
+msgstr "https://speciatheme.com/specia-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"

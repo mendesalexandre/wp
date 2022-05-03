@@ -1,0 +1,129 @@
+# Translation of Themes - Cartable in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Cartable package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-07 16:18:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Cartable\n"
+
+#. Description of the theme
+msgid "Cartable is a stylish and modern eCommerce WordPress theme with plenty of functionality to let you sell your products online. There’s an outstanding homepage with many sections and page templates. View the Cartable Pro demo https://demo.speciatheme.com/pro/?theme=cartable"
+msgstr "Cartable é um tema WordPress de comércio eletrônico elegante e moderno com muitas funcionalidades para permitir que você venda seus produtos online. Há seções e páginas excelentes na página inicial. Veja a demonstração do Cartable Pro https://demo.speciatheme.com/pro/?theme=cartable"
+
+#. Theme Name of the theme
+msgid "Cartable"
+msgstr "Cartable"
+
+#: inc/customize/cartable-premium.php:27
+msgid "Support Center"
+msgstr "Centro de Suporte"
+
+#: inc/customize/cartable-premium.php:25
+msgid "Buy Now"
+msgstr "Comprar Agora"
+
+#: inc/customize/cartable-premium.php:23
+msgid "Premium Demo"
+msgstr "Demo Premium"
+
+#: inc/customize/cartable-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "Atualize para o Premium"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Homepage um"
+
+#: sections/cartable-product.php:45
+msgid "Sale!"
+msgstr "Venda!"
+
+#: sections/cartable-navigation.php:94
+msgid "0"
+msgstr "0"
+
+#: sections/cartable-navigation.php:72
+msgid "Type To Search"
+msgstr "Digite para pesquisar"
+
+#: sections/cartable-navigation.php:70
+msgid "Site Search"
+msgstr " Pesquisa do site"
+
+#: sections/cartable-navigation.php:55
+msgid "Search"
+msgstr "Pesquisa"
+
+#: sections/cartable-navigation.php:39
+msgid "Find your product"
+msgstr "Encontre seu produto"
+
+#: sections/cartable-navigation.php:37 sections/cartable-navigation.php:71
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: inc/customize/cartable-product.php:149
+msgid "Select number of Products"
+msgstr "Selecione o número do produto"
+
+#: inc/customize/cartable-product.php:130
+msgid "Contents"
+msgstr "Conteúdo"
+
+#: inc/customize/cartable-product.php:109
+msgid "Section Description"
+msgstr "Descrição da seção"
+
+#: inc/customize/cartable-product.php:88
+msgid "Section Title"
+msgstr "Título da seção"
+
+#: inc/customize/cartable-product.php:69
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/customize/cartable-product.php:50
+msgid "Hide / Show"
+msgstr "Ocultar / Mostrar"
+
+#: inc/customize/cartable-product.php:30
+msgid "Setting"
+msgstr "Configuração"
+
+#: inc/customize/cartable-product.php:13
+msgid "Product Section"
+msgstr "Seção de produtos"
+
+#: inc/customize/cartable-header-section.php:49
+msgid "Hide / Show Categories"
+msgstr "Ocultar / Mostrar Categorias"
+
+#: inc/customize/cartable-header-section.php:29
+#: sections/cartable-navigation.php:42 sections/cartable-navigation.php:189
+msgid "All Categories"
+msgstr "Todas as categorias"
+
+#: inc/customize/cartable-header-section.php:11
+msgid "Header Navigation"
+msgstr "Navegação de cabeçalho"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#. Theme URI of the theme
+msgid "https://speciatheme.com/cartable-free/"
+msgstr "https://speciatheme.com/cartable-free/"
+
+#. Author URI of the theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the theme
+msgid "Specia"
+msgstr "Specia"
